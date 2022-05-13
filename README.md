@@ -9,7 +9,8 @@ Action already setup In this template, you just need click `use this template` b
 | :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](https://raw.githubusercontent.com/LazyDragon1123/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/LazyDragon1123/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazyDragon1123&theme=vue)
+
 [![](https://raw.githubusercontent.com/LazyDragon1123LazyDragon1123LazyDragon1123/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/LazyDragon1123/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LazyDragon1123/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/LazyDragon1123/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LazyDragon1123LazyDragon1123/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/LazyDragon1123/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LazyDragon1123/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/LazyDragon1123/github-profile-summary-cards)
 
